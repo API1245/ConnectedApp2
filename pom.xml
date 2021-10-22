@@ -38,8 +38,8 @@
 				<workerType>Micro</workerType>
 				<muleVersion>4.3.0</muleVersion>
 				<region>us-east-2</region>
-				<connectedAppClientId>01a6381233b0471ca17d01be1a1c44fd</connectedAppClientId>
-				<connectedAppClientSecret>E01f3f40d8514C35b9d3c70798294f04</connectedAppClientSecret>
+				<connectedAppClientId>${connectedAppClientId}</connectedAppClientId>
+				<connectedAppClientSecret>${connectedAppClientSecret}</connectedAppClientSecret>
 				<connectedAppGrantType>client_credentials</connectedAppGrantType>
 				<objectStoreV2>true</objectStoreV2>
 				<applicationName>conn4</applicationName>
